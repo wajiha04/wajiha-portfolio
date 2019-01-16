@@ -32,6 +32,12 @@ background-repeat: no-repeat;
 background-size: 100% 100%;
 
 }
+#background3{
+background-image: url("../images/background3.png");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
 .container{
 width: 100%;
 margin: auto;
@@ -1231,6 +1237,35 @@ height: 270px;
 padding: 10px;
 text-align: left;
 margin-bottom: 20px;
+}
+/* About me */
+#about h1 {
+  text-align: center;
+  margin-top: 5px;
+  color: #3B7D7C;
+  font-size: 35px;
+  font-weight: bold;
+  margin-left: 22px;
+}
+
+#about h4{
+  text-align: center;
+  margin-bottom: 60px;
+  color: #BA9344;
+  font-size: 28px;
+  font-weight: normal;
+  margin-left: 20px;
+}
+.wajiha{
+  margin-left: 330px;
+  background-size:300px;
+}
+#bio {
+  margin-left: 350px;
+  width: 45%;
+  height: 1200px;
+  padding: 10px;
+  text-align: left;
 }
 
 
